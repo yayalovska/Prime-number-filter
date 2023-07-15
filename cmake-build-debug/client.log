@@ -1,0 +1,60 @@
+Thu Apr 27 23:32:17 2023
+: Connected to server
+Thu Apr 27 23:32:28 2023
+: Sent command to server: Who
+Thu Apr 27 23:32:28 2023
+: Received from the server. Author and option. 
+Thu Apr 27 23:32:28 2023
+: Received results from server. Received numbers: 50
+Thu Apr 27 23:32:28 2023
+: Prime numbers: 7
+Thu Apr 27 23:32:28 2023
+: Min value: 199
+Thu Apr 27 23:32:28 2023
+: Max value: 727
+Thu Apr 27 23:32:28 2023
+: Disconnected.
+Thu May 18 19:22:27 2023
+: Connected to server
+Thu May 18 19:22:45 2023
+: Connected to server
+Thu May 18 19:22:59 2023
+: Sent command to server: who
+Thu May 18 19:22:59 2023
+: Received from the server. Author and option. 
+Thu May 18 19:22:59 2023
+: Received results from server. Received numbers: 50
+Thu May 18 19:22:59 2023
+: Prime numbers: 8
+Thu May 18 19:22:59 2023
+: Min value: 2
+Thu May 18 19:22:59 2023
+: Max value: 991
+Thu May 18 19:22:59 2023
+: Disconnected.
+Thu May 18 19:28:16 2023
+: Connected to server
+Thu May 18 19:28:32 2023
+: Connected to server
+Thu May 18 19:28:32 2023
+: Received results from server. Received numbers: 50
+Thu May 18 19:28:32 2023
+: Prime numbers: 6
+Thu May 18 19:28:32 2023
+: Min value: 31
+Thu May 18 19:28:32 2023
+: Max value: 947
+Thu May 18 19:28:32 2023
+: Disconnected.
+Sat Jul 15 16:42:28 2023
+: Connected to server
+Sat Jul 15 16:42:28 2023
+: Received results from server. Received numbers: 50
+Sat Jul 15 16:42:28 2023
+: Prime numbers: 9
+Sat Jul 15 16:42:28 2023
+: Min value: 131
+Sat Jul 15 16:42:28 2023
+: Max value: 991
+Sat Jul 15 16:42:28 2023
+: Disconnected.
